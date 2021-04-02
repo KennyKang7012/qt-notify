@@ -1,5 +1,4 @@
 # qt-notify
-Qt5 Application
 
 ## 執行結果
 
